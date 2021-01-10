@@ -9,7 +9,7 @@ export const Hello = () => {
 
   return (
     <div>
-      <h1> hello bharath kumar janjanam </h1>
+      <h1> hello bharath kumar janjanam. </h1>
     </div>
   );
 };
