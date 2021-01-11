@@ -6,6 +6,7 @@ export const Info = () =>{
   return (
     <div>
       <h2>Learn Meteor!</h2>
+      <h4>with bharath</h4>
     </div>
   );
 };
